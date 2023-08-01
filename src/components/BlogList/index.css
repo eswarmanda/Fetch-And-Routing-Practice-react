@@ -1,0 +1,7 @@
+.blog-list-container {
+  width: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
